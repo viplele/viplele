@@ -1,18 +1,15 @@
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqlsec&theme=github_dark&show_icons=true" align="right" /></center>
+        </td>
+    </tr>
+</table>
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-
-
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
-</p>
+ ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png)  ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png)  ![Gold badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png)
